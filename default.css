@@ -1,0 +1,20 @@
+
+/* Set up colour palette and fonts using variables */
+
+:root {
+  --primary: #000000;
+  --onprimary:#000000;
+  --secondary: #4a235a;
+  --onsecondary:#ffffff;
+  --tertiary:#08e72d;
+  --ontertiary: #000000;
+  --page:#ffffff;
+  --onpage:#000000;
+  --detail: #fe7a15;
+  --detail2: #d3dd18;
+
+  --body-font: 1rem Verdana, serif;
+  --header-font: lighter 3rem "spirax", cursive;
+  --title-font: lighter 2rem "spirax", cursive;
+  --quote-font: lighter 2rem "spirax", cursive;
+}
